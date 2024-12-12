@@ -71711,7 +71711,7 @@ function Jw({
 	})
 }
 const Xw = Qa(n => ({
-	project: xf.getProject("Sector32", {
+	project: xf.getProject("", {
 		state: cge
 	})
 }));
